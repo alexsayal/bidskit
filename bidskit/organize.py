@@ -1,7 +1,7 @@
 """
 Main function organizing dcm2niix output into BIDS subject/session directories
 
-MIT License
+MIT License 2
 
 Copyright (c) 2017-2019 Mike Tyszka
 
